@@ -1,5 +1,5 @@
-<?php
-declare(strict_types=1);
+<?php 
+require_once 'config.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
