@@ -10,6 +10,12 @@ declare(strict_types=1);
 </head>
 <body>
 
+<form action="search.php" method="post">
+    <label for="search">Search for user:</label>
+        <input id="search" type="text" name="usersearch" placeholder="Search">
+       <button>Search</button>
+</form>
+
 <h3>Sign up</h3>
 
 <form action="includes/formhandler.inc.php" method="post">
