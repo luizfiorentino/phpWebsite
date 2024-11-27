@@ -33,7 +33,6 @@ declare(strict_types=1);
 <form action="includes/userdelete.inc.php" method="post">
         <input type="text" name="username" placeholder="Username">
         <input type="text" name="pwd" placeholder="Password">
-        <input type="text" name="email" placeholder="E-mail">
         <button>Delete</button>
 </form>
 
